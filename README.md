@@ -1,4 +1,7 @@
-# Exploratory Data Analysis on Netflix Dataset
+# Exploratory Data Analysis on Netflix Dataset Dashboard
+
+## Business Problem
+The business problem for data analysis is to harness insights from Netflix's content landscape to inform strategic decision-making and content curation. The goal is to optimize content selection, enhance viewer engagement, and align releases with viewer preferences, ultimately driving growth and maintaining a competitive edge in the streaming industry.
 
 ## Summary of Data
 The dataset used for this Netflix EDA project is a comprehensive collection of data related to movies and TV shows available on the Netflix streaming platform. It includes information such as title, release year, genre, duration, IMDb ratings, user reviews, and viewer demographics. with the help of this dataset we can conduct an in-depth analysis of content trends, user behavior, and sentiment.
@@ -112,6 +115,6 @@ Dataset link: https://www.kaggle.com/datasets/swatikhedekar/exploratory-data-ana
 
 - Top Ratings for TV Shows and Movies <br>
 
-![image](https://github.com/Anshu3721/Netflix-Data-Analysis-In-Depth/blob/main/top%205%20movies%20%26%20tv%20shows%20by%20ratinhg.png)<br>
+![image](https://github.com/Anshu3721/Netflix-Data-Analysis-In-Depth/blob/main/top%203%20ratings.png)<br>
 **Content with adult ratings has earned high viewer ratings, indicating quality and satisfaction. High-rated content tends to draw more viewers and enhance positive user experiences.**
 <br>
